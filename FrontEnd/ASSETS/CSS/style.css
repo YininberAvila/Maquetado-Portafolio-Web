@@ -1,0 +1,15 @@
+/*.navbar.navbar-expand-lg.bg-info{ 
+     background: rgb(34,83,195);
+background: -moz-linear-gradient(360deg, rgba(34,83,195,1) 15%, rgba(229,237,10,0.9026961126247374) 48%, rgba(34,83,195,1) 78%);
+background: -webkit-linear-gradient(360deg, rgba(34,83,195,1) 15%, rgba(229,237,10,0.9026961126247374) 48%, rgba(34,83,195,1) 78%);
+background: linear-gradient(360deg, rgba(34,83,195,1) 15%, rgba(229,237,10,0.9026961126247374) 48%, rgba(34,83,195,1) 78%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#2253c3",endColorstr="#2253c3",GradientType=1);
+}*/
+
+i.fa-brands.fa-facebook.fa-2x:hover{
+    color: rgb(109, 5, 106)
+}
+ 
+.list-group{
+    --bs-list-group-bg: transparent;
+}
