@@ -5,11 +5,30 @@ background: -webkit-linear-gradient(360deg, rgba(34,83,195,1) 15%, rgba(229,237,
 background: linear-gradient(360deg, rgba(34,83,195,1) 15%, rgba(229,237,10,0.9026961126247374) 48%, rgba(34,83,195,1) 78%);
 filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#2253c3",endColorstr="#2253c3",GradientType=1);
 }*/
+body {
+    background-image: url(../IMG/fractal.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+i.fa-brands.fa-facebook.fa-2x,
+i.fa-brands.fa-linkedin.fa-2x,
+i.fa-brands.fa-instagram.fa-2x,
+i.fa-solid.fa-user.fa-2x{
+    color: #ffffff;
+}
 
 i.fa-brands.fa-facebook.fa-2x:hover{
-    color: rgb(109, 5, 106)
+    color: #3710e2
 }
- 
+i.fa-brands.fa-instagram.fa-2x:hover{
+    color: #bb1091
+}
+i.fa-brands.fa-linkedin.fa-2x:hover{
+    color: #0cb9b9
+}
+i.fa-solid.fa-user.fa-2x:hover{
+    color: #b7e60b
+}
 .list-group{
     --bs-list-group-bg: transparent;
 }
